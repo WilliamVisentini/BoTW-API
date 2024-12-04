@@ -1,0 +1,26 @@
+[
+    {
+        "Name": "Treasure Chest",
+        "Description": "Fortunes untold (potentially) await the lucky adventurer who finds one of these. Chests can often be found within shrines or at enemy camps, but there may be some crafty folks who think they're safer underground.",
+        "Common Locations": "Greater Hyrule",
+        "Recoverable Materials": "Treasures"
+    },
+    {
+        "Name": "Ore Deposit",
+        "Description": "This deposit contains a good deal of ore. Breaking the rock will yield rock salt, flint, and other minerals of varying value.",
+        "Common Locations": "Greater Hyrule",
+        "Recoverable Materials": "Ruby, Diamond, Amber, Sapphire, Topaz, Opal, Rock Salt, Flint"
+    },
+    {
+        "Name": "Rare Ore Deposit",
+        "Description": "This deposit contains a good deal of precious ore and the occasional rare mineral, like ruby and sapphire. Break it open to see what it has to offer!",
+        "Common Locations": "Greater Hyrule",
+        "Recoverable Materials": "Ruby, Sapphire, Diamond, Amber, Topaz, Flint"
+    },
+    {
+        "Name": "Luminous Ore Deposit",
+        "Description": "This deposit contains quite a bit of luminous stone. Crack it open to get at the easily processed rocks within.",
+        "Common Locations": "Greater Hyrule",
+        "Recoverable Materials": "Luminous Stone, Flint"
+    }
+]

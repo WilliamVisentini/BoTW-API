@@ -1,0 +1,218 @@
+[
+  {
+    "region": "Great Plateau",
+    "shrines": [
+      "Ja Baij Shrine",
+      "Keh Namut Shrine",
+      "Oman Au Shrine",
+      "Owa Daim Shrine"
+    ]
+  },
+  {
+    "region": "Dueling Peaks",
+    "shrines": [
+      "Bosh Kala Shrine",
+      "Ha Dahamar Shrine",
+      "Hila Rao Shrine",
+      "Lakna Rokee Shrine",
+      "Ree Dahee Shrine",
+      "Shee Venath Shrine",
+      "Shee Vaneer Shrine",
+      "Ta’loh Naeg Shrine",
+      "Toto Sah Shrine"
+    ]
+  },
+  {
+    "region": "Hateno",
+    "shrines": [
+      "Chaas Qeta Shrine",
+      "Dow Na’eh Shrine",
+      "Jitan Sa’mi Shrine",
+      "Kam Urog Shrine",
+      "Mezza Lo Shrine",
+      "Myahm Agana Shrine",
+      "Tahno Oah Shrine"
+    ]
+  },
+  {
+    "region": "Central",
+    "shrines": [
+      "Dah Kaso Shrine",
+      "Kaam Ya’tak Shrine",
+      "Katah Chuki Shrine",
+      "Namika Ozz Shrine",
+      "Noya Neha Shrine",
+      "Rota Ooh Shrine",
+      "Saas Ko’sah Shrine",
+      "Wahgo Katta Shrine"
+    ]
+  },
+  {
+    "region": "Lanayru",
+    "shrines": [
+      "Dagah Keek Shrine",
+      "Daka Tuss Shrine",
+      "Kah Mael Shrine",
+      "Kaya Wan Shrine",
+      "Ne’ez Yohma Shrine",
+      "Rucco Maag Shrine",
+      "Shai Yota Shrine",
+      "Sheh Rata Shrine",
+      "Soh Kofi Shrine"
+    ]
+  },
+  {
+    "region": "Eldin",
+    "shrines": [
+      "Daqa Koh Shrine",
+      "Gorae Torr Shrine",
+      "Kayra Mah Shrine",
+      "Mo’a Keet Shrine",
+      "Qua Raym Shrine",
+      "Sah Dahaj Shrine",
+      "Shae Mo’sah Shrine",
+      "Shora Hah Shrine",
+      "Tah Muhl Shrine"
+    ]
+  },
+  {
+    "region": "Wasteland",
+    "shrines": [
+      "Daqo Chisay Shrine",
+      "Dako Tah Shrine",
+      "Dila Maag Shrine",
+      "Hawa Koth Shrine",
+      "Jee Noh Shrine",
+      "Kay Noh Shrine",
+      "Kema Zoos Shrine",
+      "Korsh O’hu Shrine",
+      "Misae Suma Shrine",
+      "Raqa Zunzo Shrine",
+      "Suma Sahma Shrine",
+      "Tho Kayu Shrine"
+    ]
+  },
+  {
+    "region": "Gerudo",
+    "shrines": [
+      "Joloo Nah Shrine",
+      "Keeha Yoog Shrine",
+      "Kema Kosassa Shrine",
+      "Kuh Takkar Shrine",
+      "Sasa Kai Shrine",
+      "Sho Dantu Shrine"
+    ]
+  },
+  {
+    "region": "Tabantha",
+    "shrines": [
+      "Akh Va’quot Shrine",
+      "Bareeda Naag Shrine",
+      "Kah Okeo Shrine",
+      "Sha Warvo Shrine",
+      "Tena Ko’sah Shrine",
+      "Voo Lota Shrine"
+    ]
+  },
+  {
+    "region": "Ridgeland",
+    "shrines": [
+      "Maag No’rah Shrine",
+      "Mijah Rokee Shrine",
+      "Mogg Latan Shrine",
+      "Shae Loya Shrine",
+      "Sheem Dagoze Shrine",
+      "Toh Yahsa Shrine",
+      "Zalta Wa Shrine"
+    ]
+  },
+  {
+    "region": "Lake",
+    "shrines": [
+      "Ishto Soh Shrine",
+      "Ka’o Makagh Shrine",
+      "Pumaag Nitae Shrine",
+      "Shae Katha Shrine",
+      "Shoqa Tatone Shrine",
+      "Ya Naga Shrine"
+    ]
+  },
+  {
+    "region": "Faron",
+    "shrines": [
+      "Kah Yah Shrine",
+      "Korgu Chideh Shrine",
+      "Muwo Jeem Shrine",
+      "Qukah Nata Shrine",
+      "Shai Utoh Shrine",
+      "Shoda Sah Shrine",
+      "Tawa Jinn Shrine",
+      "Yah Rin Shrine"
+    ]
+  },
+  {
+    "region": "Woodland",
+    "shrines": [
+      "Daag Chokah Shrine",
+      "Keo Ruug Shrine",
+      "Ketoh Wawai Shrine",
+      "Kuhn Sidajj Shrine",
+      "Maag Halan Shrine",
+      "Mirro Shaz Shrine",
+      "Monya Toma Shrine",
+      "Rona Kachta Shrine"
+    ]
+  },
+  {
+    "region": "Akkala",
+    "shrines": [
+      "Dah Hesho Shrine",
+      "Katosa Aug Shrine",
+      "Ke’nai Shakah Shrine",
+      "Ritaag Zumo Shrine",
+      "Tu Ka’loh Shrine",
+      "Tutsuwa Nima Shrine",
+      "Ze Kasho Shrine",
+      "Zuna Kai Shrine"
+    ]
+  },
+  {
+    "region": "Hebra",
+    "shrines": [
+      "Dunba Taag Shrine",
+      "Gee Ha’rah Shrine",
+      "Goma Asaagh Shrine",
+      "Hia Miu Shrine",
+      "Lanno Kooh Shrine",
+      "Maka Rah Shrine",
+      "Mozo Shenno Shrine",
+      "Qaza Tokki Shrine",
+      "Rin Oyaa Shrine",
+      "Rok Uwog Shring",
+      "Sha Gehma Shrine",
+      "Shada Naw Shrine",
+      "To Quomo Shrine"
+    ]
+  },
+  {
+    "region": "The Champions’ Ballad",
+    "shrines": [
+      "Yowaka Ita Shrine",
+      "Rohta Chigah Shrine",
+      "Ruvo Korbah Shrine",
+      "Etsu Korima Shrine",
+      "Shira Gomar Shrine",
+      "Kiah Toza Shrine",
+      "Noe Rajee Shrine",
+      "Kee Dafunia Shrine",
+      "Sato Koda Shrine",
+      "Mah Eliya Shrine",
+      "Kamia Omuna Shrine",
+      "Sharo Lun Shrine",
+      "Rinu Honika Shrine",
+      "Keive Tala Shrine",
+      "Takama Shiri Shrine",
+      "Kihiro Moh Shrine"
+    ]
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "name": "botw-api",
+  "version": "1.0.0",
+  "description": "An API for The Legend of Zelda: Breath of the Wild (BOTW) data.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "keywords": [
+    "\"botw\"",
+    "\"breath-of-the-wild\"",
+    "\"zelda\"",
+    "\"api\""
+  ],
+  "author": "William Visentini",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.6",
+    "ejs": "^3.1.10",
+    "express": "^4.21.1",
+    "mongodb": "^6.11.0",
+    "mongoose": "^8.8.3",
+    "nodemon": "^3.1.7"
+  },
+  "type": "module"
+}
