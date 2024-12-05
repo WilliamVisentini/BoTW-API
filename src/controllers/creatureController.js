@@ -7,4 +7,4 @@ class creatureController {
     }
 }
 
-export default creatureController;
+export default creatureController; 

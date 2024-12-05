@@ -1,7 +1,12 @@
 import express from 'express';
+
+import foodRoutes from './src/routes/foodRouter.js' 
 import weaponsRoutes from './src/routes/weaponRoutes.js';
 import monsterRoutes from './src/routes/monsterRoutes.js';
 import creatureRoutes from './src/routes/creatureRoute.js'
+import shrineRoutes from './src/routes/shrineRouter.js';
+import treasureRoutes from './src/routes/treasureRoutes.js';
+
 import connect_db from './src/config/db_connect.js';
 
 (async () => {  // Wrap everything in an async function
@@ -21,7 +26,7 @@ import connect_db from './src/config/db_connect.js';
     app.use(express.json());
 
     // Register routes
-    app.use('/api', weaponsRoutes, monsterRoutes, creatureRoutes);
+    app.use('/api', weaponsRoutes, monsterRoutes, creatureRoutes, foodRoutes, shrineRoutes, treasureRoutes);
 
     const PORT = process.env.PORT || 9990;
     app.listen(PORT, () => {
