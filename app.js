@@ -6,6 +6,7 @@ import monsterRoutes from './src/routes/monsterRoutes.js';
 import creatureRoutes from './src/routes/creatureRoute.js'
 import shrineRoutes from './src/routes/shrineRouter.js';
 import treasureRoutes from './src/routes/treasureRoutes.js';
+import master_monsterRoutes from './src/routes/masterModeRoute.js'
 
 import connect_db from './src/config/db_connect.js';
 
@@ -26,7 +27,11 @@ import connect_db from './src/config/db_connect.js';
     app.use(express.json());
 
     // Register routes
-    app.use('/api', weaponsRoutes, monsterRoutes, creatureRoutes, foodRoutes, shrineRoutes, treasureRoutes);
+    app.use('/api', weaponsRoutes, monsterRoutes, creatureRoutes, foodRoutes, shrineRoutes, treasureRoutes, master_monsterRoutes);
+
+    app.get(`/`, (req, res) => {
+      res.send("Welcome to BoTW API!");
+    })
 
     const PORT = process.env.PORT || 9990;
     app.listen(PORT, () => {

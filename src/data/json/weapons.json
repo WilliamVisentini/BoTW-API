@@ -2,1111 +2,1111 @@
     {
         "Name": "Master Sword",
         "Description": "The legendary sword that seals the darkness. Its blade gleams with a sacred luster that can oppose the Calamity. Only a hero chosen by the sword itself can wield it.",
-        "Common Location": "Unknown",
+        "commonLocations": "Unknown",
         "Properties": "30 Attack"
     },
     {
         "Name": "Tree Branch",
         "Description": "Wooden branches such as this are pretty common, but it's surprisingly well-balanced. It doesn't do much damage, but can serve as a weapon in a pinch.",
-        "Common Location": "Hyrule Field, West Necluda",
+        "commonLocations": "Hyrule Field, West Necluda",
         "Properties": "2 Attack"
     },
     {
         "Name": "Torch",
         "Description": "This torch will stay lit once ignited, but if you put it away, the flame will be extinguished until you light it again.",
-        "Common Location": "Great Hyrule Forest, Hyrule Field",
+        "commonLocations": "Great Hyrule Forest, Hyrule Field",
         "Properties": "2 Attack"
     },
     {
         "Name": "Soup Ladle",
         "Description": "A kitchen implement often used for serving delicious soups. It was carved from the wood of a sturdy tree, so it actually packs quite the wallop.",
-        "Common Location": "Hyrule Field, Tabantha Frontier",
+        "commonLocations": "Hyrule Field, Tabantha Frontier",
         "Properties": "4 Attack"
     },
     {
         "Name": "Boomerang",
         "Description": "This throwing weapon was originally used by the forest-dwelling Koroks. Its unique shape allows it to return after being thrown.",
-        "Common Location": "West Necluda, Faron Grasslands",
+        "commonLocations": "West Necluda, Faron Grasslands",
         "Properties": "8 Attack"
     },
     {
         "Name": "Spring-Loaded Hammer",
         "Description": "This strange hammer is one of Kilton's specialities. Being struck by it doesn't hurt much, but the fourth swing in a string of attacks will send the victim flying.",
-        "Common Location": "Unknown",
+        "commonLocations": "Unknown",
         "Properties": "1 Attack"
     },
     {
         "Name": "Traveler's Sword",
         "Description": "A very common sword often kept by travelers to fend off small beasts. It's fairly durable, but a bit unreliable against monsters.",
-        "Common Location": "Hyrule Field, West Necluda",
+        "commonLocations": "Hyrule Field, West Necluda",
         "Properties": "5 Attack"
     },
     {
         "Name": "Soldier's Broadsword",
         "Description": "A sword brandished by the soldiers who once protected Hyrule Castle. Its durable blade is well tuned for slaying monsters.",
-        "Common Location": "Hyrule Field, Faron Grasslands",
+        "commonLocations": "Hyrule Field, Faron Grasslands",
         "Properties": "14 Attack"
     },
     {
         "Name": "Knight's Broadsword",
         "Description": "Knights of Hyrule once carried this sword. These days it's the weapon of choice for seasoned adventurers thanks to its ease of use and high attack power.",
-        "Common Location": "Gerudo Desert, Tabantha Frontier",
+        "commonLocations": "Gerudo Desert, Tabantha Frontier",
         "Properties": "26 Attack"
     },
     {
         "Name": "Royal Broadsword",
         "Description": "The Hyrulean royal family would award this sword to knights who achieved remarkable feats. A sword that balances strength and beauty as elegantly as this one is a rare find.",
-        "Common Location": "Tabantha Frontier, Akkala Highlands",
+        "commonLocations": "Tabantha Frontier, Akkala Highlands",
         "Properties": "36 Attack"
     },
     {
         "Name": "Forest Dweller's Sword",
         "Description": "Koroks made this sword for Hylians. It's made of wood, so it isn't the best choice for head-on attacks. Its original intent was likely clearing vines to forge paths through forests.",
-        "Common Location": "Great Hyrule Forest, Hyrule Field",
+        "commonLocations": "Great Hyrule Forest, Hyrule Field",
         "Properties": "22 Attack"
     },
     {
         "Name": "Zora Sword",
         "Description": "The ornamentation that adorns this blade is a traditional Zora design. It's forged from a very durable and rust-proof metal.",
-        "Common Location": "Lanayru Great Spring, East Necluda",
+        "commonLocations": "Lanayru Great Spring, East Necluda",
         "Properties": "15 Attack"
     },
     {
         "Name": "Feathered Edge",
         "Description": "Rito craftsmen forged this lightweight, double-edged sword so Rito warriors could soar into battle unhindered by its weight.",
-        "Common Location": "Tabantha Frontier, Hyrule Field",
+        "commonLocations": "Tabantha Frontier, Hyrule Field",
         "Properties": "15 Attack"
     },
     {
         "Name": "Gerudo Scimitar",
         "Description": "This common sword is often carried by Gerudo women for self-defense. Its short, curved blade is easily recognized.",
-        "Common Location": "Gerudo Highlands, Gerudo Desert",
+        "commonLocations": "Gerudo Highlands, Gerudo Desert",
         "Properties": "16 Attack"
     },
     {
         "Name": "Moonlight Scimitar",
         "Description": "Delicate Gerudo carvings decorate this curved sword. The engraved blade is extremely sharp. Apparently it once served ceremonial purposes in festivals.",
-        "Common Location": "Gerudo Highlands, Gerudo Desert",
+        "commonLocations": "Gerudo Highlands, Gerudo Desert",
         "Properties": "25 Attack"
     },
     {
         "Name": "Scimitar of the Seven",
         "Description": "A famous sword once beloved by the Gerudo Champion Urbosa. It is said that when Urbosa swung this sword in battle, her movements resembled a beautiful dance.",
-        "Common Location": "Gerudo Town",
+        "commonLocations": "Gerudo Town",
         "Properties": "32 Attack"
     },
     {
         "Name": "Eightfold Blade",
         "Description": "A single-edged sword traditional to the Sheikah tribe. Forged using ancient technology, it's said to be among the sharpest conventional weapons ever made.",
-        "Common Location": "West Necluda, Lake Hylia",
+        "commonLocations": "West Necluda, Lake Hylia",
         "Properties": "15 Attack"
     },
     {
         "Name": "Ancient Short Sword",
         "Description": "The blade of this ancient sword was made using an ancient power lost to this modern age. Its blade appears only when drawn, and its cutting power surpasses metal swords.",
-        "Common Location": "Unknown",
+        "commonLocations": "Unknown",
         "Properties": "40 Attack"
     },
     {
         "Name": "Rusty Broadsword",
         "Description": "This once-fearsome sword has seen better days. It can do some damage in the right hands but also breaks quickly.",
-        "Common Location": "Hyrule Field, Eldin Canyon",
+        "commonLocations": "Hyrule Field, Eldin Canyon",
         "Properties": "6 Attack"
     },
     {
         "Name": "Royal Guard's Sword",
         "Description": "A Sheikah-made replica of the sword that seals the darkness. It was made with ancient technology to oppose the Great Calamity, but its low durability made it inefficient.",
-        "Common Location": "Unknown",
+        "commonLocations": "Unknown",
         "Properties": "48 Attack"
     },
     {
         "Name": "Flameblade",
         "Description": "This magical sword was forged in the lava of Death Mountain. It leaves white-hot flames in its wake when the blade glows red.",
-        "Common Location": "Hyrule Field, East Necluda",
+        "commonLocations": "Hyrule Field, East Necluda",
         "Properties": "24 Attack"
     },
     {
         "Name": "Frostblade",
         "Description": "A magical sword forged in the frigid mountains of the Hebra region. When the blade glows blue, enemies struck by it will become frozen.",
-        "Common Location": "Gerudo Highlands, Hyrule Field",
+        "commonLocations": "Gerudo Highlands, Hyrule Field",
         "Properties": "20 Attack"
     },
     {
         "Name": "Thunderblade",
         "Description": "A magical sword forged and refined by lightning from the Hyrule Hills. When the blade shines with a golden light, it will electrocute enemies struck by it.",
-        "Common Location": "Hyrule Field, West Necluda",
+        "commonLocations": "Hyrule Field, West Necluda",
         "Properties": "22 Attack"
     },
     {
         "Name": "Boko Club",
         "Description": "A crude Bokoblin club made to clobber small prey. It's essentially a stick, so its durability is low.",
-        "Common Location": "Hyrule Field, West Necluda",
+        "commonLocations": "Hyrule Field, West Necluda",
         "Properties": "4 Attack"
     },
     {
         "Name": "Spiked Boko Club",
         "Description": "A reinforced Bokoblin club made to maximize damage. The sharpened bones jabbed into make it a brutal weapon.",
-        "Common Location": "Faron Grasslands, East Necluda",
+        "commonLocations": "Faron Grasslands, East Necluda",
         "Properties": "12 Attack"
     },
     {
         "Name": "Dragonbone Boko Club",
         "Description": "This Bokoblin club has been reinforced with fossilized bones to maximize clobbering potential. Only the brawniest of Bokoblins can manage its immense weight.",
-        "Common Location": "Hyrule Ridge, Necluda Sea",
+        "commonLocations": "Hyrule Ridge, Necluda Sea",
         "Properties": "24 Attack"
     },
     {
         "Name": "Lizal Boomerang",
         "Description": "A curved sword favored by the Lizalfos. It can be used to attack directly or can be thrown like a boomerang.",
-        "Common Location": "Lake Hylia, Lanayru Wetlands",
+        "commonLocations": "Lake Hylia, Lanayru Wetlands",
         "Properties": "14 Attack"
     },
     {
         "Name": "Lizal Forked Boomerang",
         "Description": "Blue Lizalfos in particular like this weapon. It has one more blade than the Lizal boomerang to give it additional cutting power, and it still returns when thrown.",
-        "Common Location": "Gerudo Desert, Tabantha Frontier",
+        "commonLocations": "Gerudo Desert, Tabantha Frontier",
         "Properties": "24 Attack"
     },
     {
         "Name": "Lizal Tri-Boomerang",
         "Description": "More blades mean more attack power! It can be used as a boomerang, but all those blades make that a bit more dangerous. Carried by Black Lizalfos seasoned in battle.",
-        "Common Location": "Hebra Mountains, Akkala Highlands",
+        "commonLocations": "Hebra Mountains, Akkala Highlands",
         "Properties": "36 Attack"
     },
     {
         "Name": "Guardian Sword",
         "Description": "A sword often wielded by Guardian Scouts. Its blue energy blade is a product of ancient technology. It's not very durable.",
-        "Common Location": "Eldin Canyon, Tabantha Frontier",
+        "commonLocations": "Eldin Canyon, Tabantha Frontier",
         "Properties": "20 Attack"
     },
     {
         "Name": "Guardian Sword+",
         "Description": "This Guardian sword has enhanced power over the standard model. Its cutting capabilities are improved, and its durability has seen a slight uptick.",
-        "Common Location": "Gerudo Highlands, Akkala Highlands",
+        "commonLocations": "Gerudo Highlands, Akkala Highlands",
         "Properties": "30 Attack"
     },
     {
         "Name": "Guardian Sword++",
         "Description": "The abilities of this Guardian sword have been boosted to the maximum., as evidenced by its increase in size. It slices through armor like a hot knife through butter!",
-        "Common Location": "Hebra Mountains, Akkala Highlands",
+        "commonLocations": "Hebra Mountains, Akkala Highlands",
         "Properties": "40 Attack"
     },
     {
         "Name": "Lynel Sword",
         "Description": "This Lynel-made sword was designed with smashing in mind rather than slicing. It's on the heavy side compared to what Hylians are used to, but it's very strong.",
-        "Common Location": "Lanayru Great Spring, Hyrule Field",
+        "commonLocations": "Lanayru Great Spring, Hyrule Field",
         "Properties": "24 Attack"
     },
     {
         "Name": "Mighty Lynel Sword",
         "Description": "This Lynel-made sword boasts more blades and more attack power. A skilled Lynel can draw this sword simply in passing and still cut a foe in two.",
-        "Common Location": "Hyrule Field, Lanayru Great Spring",
+        "commonLocations": "Hyrule Field, Lanayru Great Spring",
         "Properties": "36 Attack"
     },
     {
         "Name": "Savage Lynel Sword",
         "Description": "A brutal sword carried by white-haired Lynels. The savage blades are strong enough to cut down any foe, no matter how strong.",
-        "Common Location": "Hyrule Field, Hebra Mountains",
+        "commonLocations": "Hyrule Field, Hebra Mountains",
         "Properties": "58 Attack"
     },
     {
         "Name": "Fire Rod",
         "Description": "A magical rod that can cast fireballs, crafted by an ancient magician. The rod will break if it strikes something directly, so use it wisely.",
-        "Common Location": "Hyrule Field, Hebra Mountains",
+        "commonLocations": "Hyrule Field, Hebra Mountains",
         "Properties": "10 Attack"
     },
     {
         "Name": "Meteor Rod",
         "Description": "A magical rod that can cast three fireballs at once, crafted by an ancient magician. It will break upon running out of magical energy, so make it last!",
-        "Common Location": "Hyrule Field, Hebra Mountains",
+        "commonLocations": "Hyrule Field, Hebra Mountains",
         "Properties": "10 Attack"
     },
     {
         "Name": "Ice Rod",
         "Description": "A magical rod crafted from refined ice found in the Hebra Mountains. This rod can cast waves of freezing air. Great for magic - not so great for melee.",
-        "Common Location": "Gerudo Highlands, Eldin Canyon",
+        "commonLocations": "Gerudo Highlands, Eldin Canyon",
         "Properties": "5 Attack"
     },
     {
         "Name": "Blizzard Rod",
         "Description": "A magical rod that can cast extreme cold in a wide range. These are crafted from refined ice found at the summit of Hebra peak. It will break when depleted.",
-        "Common Location": "Gerudo Highlands, Hebra Mountains",
+        "commonLocations": "Gerudo Highlands, Hebra Mountains",
         "Properties": "10 Attack"
     },
     {
         "Name": "Lightning Rod",
         "Description": "A magical rod that can shoot balls of electricity. Its gem contains lightning from the Hyrule Hills. It's not recommended to use as a melee weapon.",
-        "Common Location": "West Necluda, Hyrule Ridge",
+        "commonLocations": "West Necluda, Hyrule Ridge",
         "Properties": "5 Attack"
     },
     {
         "Name": "Thunderstorm Rod",
         "Description": "A magical rod that can hurl three balls of electricity at once. Its gem contains electricity from the Hyrule Hills, and the rod will break when that electricity runs out.",
-        "Common Location": "Hyrule Field, Hyrule Ridge",
+        "commonLocations": "Hyrule Field, Hyrule Ridge",
         "Properties": "10 Attack"
     },
     {
         "Name": "Vicious Sickle",
         "Description": "A grim weapon favored by the Yiga. The half-moon shape of the blade allows for the rapid delivery of fatal wounds and serves as a symbol of their terror. Its durability is low.",
-        "Common Location": "Gerudo Highlands, Gerudo Desert",
+        "commonLocations": "Gerudo Highlands, Gerudo Desert",
         "Properties": "16 Attack"
     },
     {
         "Name": "Demon Carver",
         "Description": "This lethal weapon is forged by the Yiga. Its unique shape facilitates the sound dispatching of any target and strikes fear into the hearts of all who see it.",
-        "Common Location": "Unknown",
+        "commonLocations": "Unknown",
         "Properties": "40 Attack"
     },
     {
         "Name": "One-Hit Obliterator",
         "Description": "A weapon that defeats foes with one hit and causes the user to die within one hit. It loses its sheen and power after two consecutive uses, but it will eventually regain both.",
-        "Common Location": "Unknown",
+        "commonLocations": "Unknown",
         "Properties": "∞ Attack"
     },
     {
         "Name": "Bokoblin Arm",
         "Description": "A skeletal arm that keeps moving even after it's severed from its body. It's kind of gross to strap it to your back, but it'll do in a pinch. It's old and fragile, so it's quick to break.",
-        "Common Location": "Greater Hyrule",
+        "commonLocations": "Greater Hyrule",
         "Properties": "5 Attack"
     },
     {
         "Name": "Lizalfos Arm",
         "Description": "The arm of a Stalizalfos that continues to struggle even in death. It can be used as a weapon, but it's very brittle. You can feel it wiggling when you strap it to your back...",
-        "Common Location": "Greater Hyrule",
+        "commonLocations": "Greater Hyrule",
         "Properties": "12 Attack"
     },
     {
         "Name": "Korok Leaf",
         "Description": "A single swing of this giant, sturdy leaf can create a gust of wind strong enough to blow away light objects. These will sometimes fall off trees as they're chopped down.",
-        "Common Location": "Hyrule Field, West Necluda",
+        "commonLocations": "Hyrule Field, West Necluda",
         "Properties": "1 Attack"
     },
     {
         "Name": "Farming Hoe",
         "Description": "A farming tool primarily used for tilling fields. Its fine craftsmanship is sturdy enough to withstand backbreaking fieldwork, but its battle applications are untested.",
-        "Common Location": "East Necluda, Hyrule Field",
+        "commonLocations": "East Necluda, Hyrule Field",
         "Properties": "16 Attack"
     },
     {
         "Name": "Boat Oar",
         "Description": "Made for paddling boats, but it was made sturdy enough to fight strong currents. Maybe it's useful for self-defense in a pinch.",
-        "Common Location": "East Necluda, Necluda Sea",
+        "commonLocations": "East Necluda, Necluda Sea",
         "Properties": "14 Attack"
     },
     {
         "Name": "Woodcutter's Axe",
         "Description": "A woodcutter's tool of choice for felling trees. Its formidable weight and uneven balancing make it a slow, inefficient weapon.",
-        "Common Location": "West Necluda, Hyrule Field",
+        "commonLocations": "West Necluda, Hyrule Field",
         "Properties": "3 Attack"
     },
     {
         "Name": "Double Axe",
         "Description": "This double-sided axe was designed with fighting in mind. It's a bit unwieldy, so it requires a well-practiced technique to use efficiently.",
-        "Common Location": "West Necluda, Gerudo Highlands",
+        "commonLocations": "West Necluda, Gerudo Highlands",
         "Properties": "18 Attack"
     },
     {
         "Name": "Iron Sledgehammer",
         "Description": "This large iron sledgehammer was originally used for mining, but it works reasonably well as a weapon too.",
-        "Common Location": "Eldin Canyon, Akkala Highlands",
+        "commonLocations": "Eldin Canyon, Akkala Highlands",
         "Properties": "12 Attack"
     },
     {
         "Name": "Giant Boomerang",
         "Description": "This massive boomerang requires two hands. Originally used for hunting, it was modified for use as a weapon. The blades on the inner curves make it a bit trick to wield.",
-        "Common Location": "West Necluda, Hebra Mountains",
+        "commonLocations": "West Necluda, Hebra Mountains",
         "Properties": "25 Attack"
     },
     {
         "Name": "Traveler's Claymore",
         "Description": "A basic two-handed sword often wielded by aspiring adventurers. Its immense weight can knock enemies' shields right out of their hands.",
-        "Common Location": "Hyrule Field, West Necluda",
+        "commonLocations": "Hyrule Field, West Necluda",
         "Properties": "10 Attack"
     },
     {
         "Name": "Soldier's Claymore",
         "Description": "A two-handed sword designed for combat. It's heavy and hard to use but has decent build quality and durability.",
-        "Common Location": "Hyrule Field, Faron Grasslands",
+        "commonLocations": "Hyrule Field, Faron Grasslands",
         "Properties": "20 Attack"
     },
     {
         "Name": "Knight's Claymore",
         "Description": "Only the most confident of Hyrule Castle's knights carried this two-handed sword. Its cutting edge is finely honed.",
-        "Common Location": "Gerudo Desert, Tabantha Frontier",
+        "commonLocations": "Gerudo Desert, Tabantha Frontier",
         "Properties": "38 Attack"
     },
     {
         "Name": "Royal Claymore",
         "Description": "A two-handed sword issued to the Hyrulean royal family's immediate guard detail. Its powerful strikes are said to crush an opponent's body and resolve alike.",
-        "Common Location": "Tabantha Frontier, Gerudo Desert",
+        "commonLocations": "Tabantha Frontier, Gerudo Desert",
         "Properties": "52 Attack"
     },
     {
         "Name": "Silver Longsword",
         "Description": "Although the Zora prefer spears to swords, they made this two-handed weapon using a special metal. It found popularity among Hylians for its unique design.",
-        "Common Location": "Lanayru Great Spring, Lanayru Wetlands",
+        "commonLocations": "Lanayru Great Spring, Lanayru Wetlands",
         "Properties": "22 Attack"
     },
     {
         "Name": "Cobble Crusher",
         "Description": "A Goron-made two-handed weapon. It's made from thick, hard metal and has no cutting edge, so it relies on its sheer weight to crush all opponents.",
-        "Common Location": "Eldin Canyon, Eldin Mountains",
+        "commonLocations": "Eldin Canyon, Eldin Mountains",
         "Properties": "15 Attack"
     },
     {
         "Name": "Stone Smasher",
         "Description": "A two-handed weapon forged from a rare metal mined in Goron City. Its center of gravity is at its tip, so it uses centrifugal force and its sheer weight to smash opponents flat.",
-        "Common Location": "Eldin Canyon, Hyrule Field",
+        "commonLocations": "Eldin Canyon, Hyrule Field",
         "Properties": "42 Attack"
     },
     {
         "Name": "Boulder Breaker",
         "Description": "This two-handed weapon was once wielded by the Goron Champion Daruk. Daruk made swinging it around look easy, but a Hylian would need and immense amount of strength.",
-        "Common Location": "Eldin Canyon",
+        "commonLocations": "Eldin Canyon",
         "Properties": "60 Attack"
     },
     {
         "Name": "Golden Claymore",
         "Description": "Only the most talented Gerudo sword fighters carry this two-handed sword. It's actually much lighter than it appears and is surprisingly easy to wield.",
-        "Common Location": "Gerudo Highlands, Hyrule Ridge",
+        "commonLocations": "Gerudo Highlands, Hyrule Ridge",
         "Properties": "28 Attack"
     },
     {
         "Name": "Eightfold Longblade",
         "Description": "A single-edged sword seldom seen in Hyrule. This weapon is passed down through the Sheikah tribe and has an astonishingly shape edge ideal for slicing.",
-        "Common Location": "West Necluda, Lanayru Great Spring",
+        "commonLocations": "West Necluda, Lanayru Great Spring",
         "Properties": "32 Attack"
     },
     {
         "Name": "Edge of Duality",
         "Description": "A curious double-edged sword crafted using Sheikah technology. It was originally made for Hyrulean knights unfamiliar with single-edged blades.",
-        "Common Location": "Hyrule Field, West Necluda",
+        "commonLocations": "Hyrule Field, West Necluda",
         "Properties": "50 Attack"
     },
     {
         "Name": "Ancient Bladesaw",
         "Description": "This two-handed sword was forged using ancient Sheikah technology. Its unique rotating blades give it impressive cutting power that will slice enemies to shreds.",
-        "Common Location": "Unknown",
+        "commonLocations": "Unknown",
         "Properties": "55 Attack"
     },
     {
         "Name": "Rusty Claymore",
         "Description": "A two-handed sword not properly cared for. Although it can be used as a weapon, its durability is very low. Don't expect it to last for more than a few strikes.",
-        "Common Location": "Hyrule Field, Eldin Canyon",
+        "commonLocations": "Hyrule Field, Eldin Canyon",
         "Properties": "12 Attack"
     },
     {
         "Name": "Royal Guard's Claymore",
         "Description": "The Sheikah used the very essence of ancient technology to forge this greatsword. It was designed to oppose the Calamity, but its low durability made it impractical in battle.",
-        "Common Location": "Unknown",
+        "commonLocations": "Unknown",
         "Properties": "72 Attack"
     },
     {
         "Name": "Great Flameblade",
         "Description": "This magic-infused greatsword was forged in the fires of Death Mountain by Goron smiths in an ancient age. Attack when the blade glows red to expel flames.",
-        "Common Location": "Hyrule Field, Eldin Canyon",
+        "commonLocations": "Hyrule Field, Eldin Canyon",
         "Properties": "34 Attack"
     },
     {
         "Name": "Great Frostblade",
         "Description": "This magic infused greatsword was forged by smelting ore found in the Hebra Mountains' permafrost. Attack when the blade glows blue to expel freezing air.",
-        "Common Location": "Hebra Mountains, Hyrule Field",
+        "commonLocations": "Hebra Mountains, Hyrule Field",
         "Properties": "30 Attack"
     },
     {
         "Name": "Great Thunderblade",
         "Description": "This magic-infused greatsword was forged by the Hyrulean royal family using lightning from the Hyrule Hills. Attack when the blade glows golden to expel lightning.",
-        "Common Location": "Hyrule Field, Tabantha Frontier",
+        "commonLocations": "Hyrule Field, Tabantha Frontier",
         "Properties": "32 Attack"
     },
     {
         "Name": "Boko Bat",
         "Description": "A clunky club made by a Bokoblin. If you swing it at an enemy's shield it may be able to knock the shield out of your foe's hand.",
-        "Common Location": "Hyrule Field, West Necluda",
+        "commonLocations": "Hyrule Field, West Necluda",
         "Properties": "6 Attack"
     },
     {
         "Name": "Spiked Boko Bat",
         "Description": "After much consideration by Bokoblins on how to improve the Boko bat, they simply attached sharp spikes to it. A skilled fighter can cause immense damage with this.",
-        "Common Location": "Faron Grasslands, East Necluda",
+        "commonLocations": "Faron Grasslands, East Necluda",
         "Properties": "18 Attack"
     },
     {
         "Name": "Dragonbone Boko Bat",
         "Description": "Used only by the toughest Bokoblin warriors, this Boko bat has been fortified by fossilized bone. It boasts a high durability and is strong enough to beat down powerful foes.",
-        "Common Location": "Hyrule Ridge, Necluda Sea",
+        "commonLocations": "Hyrule Ridge, Necluda Sea",
         "Properties": "36 Attack"
     },
     {
         "Name": "Moblin Club",
         "Description": "A crudely fashioned club favored by Moblins. It's carved from a sturdy tree but is sloppily made, so it breaks easily.",
-        "Common Location": "Gerudo Highlands, Faron Grasslands",
+        "commonLocations": "Gerudo Highlands, Faron Grasslands",
         "Properties": "9 Attack"
     },
     {
         "Name": "Spiked Moblin Club",
         "Description": "Animal bone has been affixed to this Moblin club to greatly improve its damage.",
-        "Common Location": "Hyrule Field, Akkala Highlands",
+        "commonLocations": "Hyrule Field, Akkala Highlands",
         "Properties": "27 Attack"
     },
     {
         "Name": "Dragonbone Moblin Club",
         "Description": "The bone of an ancient beast has been affixed to this Moblin club, further increasing its damage. Moblins carrying these in battle are particularly dangerous.",
-        "Common Location": "Hebra Mountains, Eldin Mountains",
+        "commonLocations": "Hebra Mountains, Eldin Mountains",
         "Properties": "45 Attack"
     },
     {
         "Name": "Ancient Battle Axe",
         "Description": "A weapon used by Guardian Scouts. Its unique blade was forged using ancient technology. Although powerful, its unusual shape causes it to break easily.",
-        "Common Location": "Gerudo Desert, Hyrule Field",
+        "commonLocations": "Gerudo Desert, Hyrule Field",
         "Properties": "30 Attack"
     },
     {
         "Name": "Ancient Battle Axe+",
         "Description": "This ancient battle axe's damage output has been increased to maximum. It's sharp enough to cut through almost anything, so it may have been used to forge new routes.",
-        "Common Location": "Akkala Highlands, Hyrule Field",
+        "commonLocations": "Akkala Highlands, Hyrule Field",
         "Properties": "45 Attack"
     },
     {
         "Name": "Ancient Battle Axe++",
         "Description": "This ancient battle axe's damage output is scaled up to peak performance. Ancient technology makes it possible to enhance cutting power beyond metal weapons' limits.",
-        "Common Location": "Hebra Mountains, Gerudo Highlands",
+        "commonLocations": "Hebra Mountains, Gerudo Highlands",
         "Properties": "60 Attack"
     },
     {
         "Name": "Lynel Crusher",
         "Description": "This Lynel-made two-handed weapon has been reinforced to increase its durability and striking power. Its overwhelming heft will crush your foe, shield and all.",
-        "Common Location": "Gerudo Highlands, Tabantha Frontier",
+        "commonLocations": "Gerudo Highlands, Tabantha Frontier",
         "Properties": "36 Attack"
     },
     {
         "Name": "Mighty Lynel Crusher",
         "Description": "This Lynel-made two-handed weapon has been reinforced to increase its durability and striking power. Its overwhelming heft will crush your foe, shield and all.",
-        "Common Location": "Gerudo Highlands, Hebra Mountains",
+        "commonLocations": "Gerudo Highlands, Hebra Mountains",
         "Properties": "54 Attack"
     },
     {
         "Name": "Savage Lynel Crusher",
         "Description": "This Lynel-made two-handed weapon is immensely heavy thank to a rare metal from Death Mountain's peak. The power of its downward swing is in a class all of its own.",
-        "Common Location": "Hebra Mountains, Eldin Mountains",
+        "commonLocations": "Hebra Mountains, Eldin Mountains",
         "Properties": "78 Attack"
     },
     {
         "Name": "Windcleaver",
         "Description": "This sword is favored by high-ranking members of the Yiga. When wielded by a proficient fighter, its unique shape cleaves the very wind and creates a vacuum.",
-        "Common Location": "Gerudo Highlands, West Necluda",
+        "commonLocations": "Gerudo Highlands, West Necluda",
         "Properties": "40 Attack"
     },
     {
         "Name": "Moblin Arm",
         "Description": "A Moblin bone that continues to move even after being detached from its body. The bone is thick enough to be used as a weapon but is extremely brittle and easily broken.",
-        "Common Location": "Greater Hyrule",
+        "commonLocations": "Greater Hyrule",
         "Properties": "15 Attack"
     },
     {
         "Name": "Wooden Mop",
         "Description": "Just a mop to the untrained eye, it excels at tidying up the place. But it owes its sturdy construction to a true craftsman, so it actually has some combat merit.",
-        "Common Location": "East Necluda, Hyrule Field",
+        "commonLocations": "East Necluda, Hyrule Field",
         "Properties": "5 Attack"
     },
     {
         "Name": "Farmer's Pitchfork",
         "Description": "A farming tool used to collect hay efficiently. It's light enough to be used by anyone. The four prongs are very sharp.",
-        "Common Location": "East Necluda, West Necluda",
+        "commonLocations": "East Necluda, West Necluda",
         "Properties": "7 Attack"
     },
     {
         "Name": "Fishing Harpoon",
         "Description": "A fisherman's tool that excels at catching large fish. Its particularly sharp spearhead makes it valuable as a weapon as well.",
-        "Common Location": "East Necluda, Lake Hylia",
+        "commonLocations": "East Necluda, Lake Hylia",
         "Properties": "8 Attack"
     },
     {
         "Name": "Throwing Spear",
         "Description": "A specialized spear weighted to excel as a throwing weapon. It's perfectly balanced to be thrown harder than your average spear, able to pierce targets from a great distance.",
-        "Common Location": "West Necluda, Hyrule Field",
+        "commonLocations": "West Necluda, Hyrule Field",
         "Properties": "6 Attack"
     },
     {
         "Name": "Traveler's Spear",
         "Description": "A spear used mainly by travelers to fend off wolves and other beasts. It's easy to hold and simple to use.",
-        "Common Location": "Hyrule Field, West Necluda",
+        "commonLocations": "Hyrule Field, West Necluda",
         "Properties": "3 Attack"
     },
     {
         "Name": "Soldier's Spear",
         "Description": "A long spear once used by the guards of Hyrule Castle. Easy to use but difficult to master. The iron tip is very sturdy, and the shaft will not burn when exposed to flame.",
-        "Common Location": "Hyrule Field, Faron Grasslands",
+        "commonLocations": "Hyrule Field, Faron Grasslands",
         "Properties": "7 Attack"
     },
     {
         "Name": "Knight's Halberd",
         "Description": "A spear used by knights adept in mounted combat. The spearhead is modeled after an axe.",
-        "Common Location": "Tabantha Frontier, Gerudo Desert",
+        "commonLocations": "Tabantha Frontier, Gerudo Desert",
         "Properties": "13 Attack"
     },
     {
         "Name": "Royal Halberd",
         "Description": "This spear was issued to the knights who guarded Hyrule Castle's throne room. Its ornate design was applied by a craftsman in service to the royal family.",
-        "Common Location": "Gerudo Highlands, Tabantha Frontier",
+        "commonLocations": "Gerudo Highlands, Tabantha Frontier",
         "Properties": "26 Attack"
     },
     {
         "Name": "Forest Dweller's Spear",
         "Description": "The Koroks made this spear for Hylians. The shaft is made from a light, sturdy wood, offering ease of use. The spearhead is made from a much harder wood, offering strength.",
-        "Common Location": "Great Hyrule Forest, Hyrule Ridge",
+        "commonLocations": "Great Hyrule Forest, Hyrule Ridge",
         "Properties": "11 Attack"
     },
     {
         "Name": "Zora Spear",
         "Description": "This spear is a Zora's weapon of choice. It's lighter than it looks due to being made from a special metal and is used by the Zora for both fishing and protecting their domain.",
-        "Common Location": "Lanayru Great Spring, Lake Hylia",
+        "commonLocations": "Lanayru Great Spring, Lake Hylia",
         "Properties": "9 Attack"
     },
     {
         "Name": "Silverscale Spear",
         "Description": "A most skilled Zora fighters wield this spear. Its beautiful fish-tail design belies its impressive strength; the spearhead can piece even the toughest scales.",
-        "Common Location": "Akkala Highlands, Lanayru Great Spring",
+        "commonLocations": "Akkala Highlands, Lanayru Great Spring",
         "Properties": "12 Attack"
     },
     {
         "Name": "Ceremonial Trident",
         "Description": "A spear modeled after the Lightscale trident wielded by the Zora Champion Mipha. They may be identical in appearance, but this spear's strength and durability are inferior.",
-        "Common Location": "Lanayru Great Spring",
+        "commonLocations": "Lanayru Great Spring",
         "Properties": "14 Attack"
     },
     {
         "Name": "Lightscale Trident",
         "Description": "A spear of peerless grace cherished by the Zora Champion Mipha. Although Mipha specialized in healing abilities, her spearmanship was in a class all its own.",
-        "Common Location": "Lanayru Great Spring",
+        "commonLocations": "Lanayru Great Spring",
         "Properties": "22 Attack"
     },
     {
         "Name": "Drillshaft",
         "Description": "Goron artisans used recycled metal to forge this weapon. The tip is made from an old excavation bore, which affords it unmatched piercing capabilities.",
-        "Common Location": "Eldin Canyon, Hebra Mountains",
+        "commonLocations": "Eldin Canyon, Hebra Mountains",
         "Properties": "14 Attack"
     },
     {
         "Name": "Feathered Spear",
         "Description": "Its lightweight design is a hallmark of Rito craftsmanship. It's made from light and sturdy materials, which afford Rito warriors ease of use during aerial combat.",
-        "Common Location": "Tabantha Frontier, Hyrule Field",
+        "commonLocations": "Tabantha Frontier, Hyrule Field",
         "Properties": "10 Attack"
     },
     {
         "Name": "Gerudo Spear",
         "Description": "This spear's center of gravity is in its tip, making it a bit unwieldy for the average fighter. But in the hands of a skilled Gerudo warrior, it's a weapon of reliable strength.",
-        "Common Location": "Gerudo Desert, Gerudo Highlands",
+        "commonLocations": "Gerudo Desert, Gerudo Highlands",
         "Properties": "16 Attack"
     },
     {
         "Name": "Serpentine Spear",
         "Description": "The spearhead of this weapon is uniquely Sheikah in design. Spear masters of the Sheikah tribe can use the crescent shape to snag their opponents and deliver brutal cuts.",
-        "Common Location": "East Necluda, Hyrule Field",
+        "commonLocations": "East Necluda, Hyrule Field",
         "Properties": "12 Attack"
     },
     {
         "Name": "Ancient Spear",
         "Description": "This spear is the result of countless hours of research into the ancient technology used by Guardians. The glowing spearhead has piercing potential.",
-        "Common Location": "Unknown",
+        "commonLocations": "Unknown",
         "Properties": "30 Attack"
     },
     {
         "Name": "Rusty Halberd",
         "Description": "A rusty polearm likely used by knights from an age past. The spearhead is in bad shape due to prolonged exposure to the elements, so its durability is low.",
-        "Common Location": "Hyrule Field, Great Hyrule Forest",
+        "commonLocations": "Hyrule Field, Great Hyrule Forest",
         "Properties": "5 Attack"
     },
     {
         "Name": "Royal Guard's Spear",
         "Description": "This Sheikah-made spear was created using ancient technology to combat the Calamity. Its attack power is very high, but a critical design flaw left it with poor durability.",
-        "Common Location": "Unknown",
+        "commonLocations": "Unknown",
         "Properties": "32 Attack"
     },
     {
         "Name": "Flamespear",
         "Description": "A magical spear forged in the magma of Death Mountain. Attack when the blade glows to expel powerful flames.",
-        "Common Location": "Hyrule Field, Hebra Mountains",
+        "commonLocations": "Hyrule Field, Hebra Mountains",
         "Properties": "24 Attack"
     },
     {
         "Name": "Frostspear",
         "Description": "A magical spear forged from ancient ice taken from the Hebra Mountains. Attack when the blade glows blue to chill the air and freeze your foe.",
-        "Common Location": "Hebra Mountains, Hyrule Field",
+        "commonLocations": "Hebra Mountains, Hyrule Field",
         "Properties": "20 Attack"
     },
     {
         "Name": "Thunderspear",
         "Description": "A magical spear that contains thunder from Thundra Plateau in its tip. Attack when the blade glows with a golden light to unleash an electric attack.",
-        "Common Location": "Hyrule Ridge, Hyrule Field",
+        "commonLocations": "Hyrule Ridge, Hyrule Field",
         "Properties": "22 Attack"
     },
     {
         "Name": "Boko Spear",
         "Description": "A spear haphazardly carved from a large tree branch. It looks like its original intent was for skewering meat and cooking it, but it does have some combat merit as well.",
-        "Common Location": "West Necluda, Hyrule Field",
+        "commonLocations": "West Necluda, Hyrule Field",
         "Properties": "2 Attack"
     },
     {
         "Name": "Spiked Boko Spear",
         "Description": "A Boko spear enhanced with sharpened animal bones. It's light, easy to use, and deals a decent amount of damage.",
-        "Common Location": "Faron Grasslands, East Necluda",
+        "commonLocations": "Faron Grasslands, East Necluda",
         "Properties": "6 Attack"
     },
     {
         "Name": "Dragonbone Boko Spear",
         "Description": "This Boko spear has been strengthened with fossilized bones. The bones are positioned outward so the fangs bite at the opponent. Beware Bokoblins carrying this weapon.",
-        "Common Location": "Necluda Sea, Hyrule Ridge",
+        "commonLocations": "Necluda Sea, Hyrule Ridge",
         "Properties": "12 Attack"
     },
     {
         "Name": "Moblin Spear",
         "Description": "This wooden spear is most often used by Moblins. It's made from a hastily whittled tree, so its stabbing power and durability are both pretty low.",
-        "Common Location": "Faron Grasslands, Gerudo Highlands",
+        "commonLocations": "Faron Grasslands, Gerudo Highlands",
         "Properties": "4 Attack"
     },
     {
         "Name": "Spiked Moblin Spear",
         "Description": "This Moblin-made spear uses a horned animal bone as the spearhead. Like many Moblin weapons it's sloppily made, but this one packs some respective piercing power.",
-        "Common Location": "Gerudo Highlands, Akkala Highlands",
+        "commonLocations": "Gerudo Highlands, Akkala Highlands",
         "Properties": "9 Attack"
     },
     {
         "Name": "Dragonbone Moblin Spear",
         "Description": "This spear is a fan favorite among Moblins. The spearhead is made from fossilized bones adorned with spikes, which greatly increases its stabbing power.",
-        "Common Location": "Hebra Mountains, Eldin Mountains",
+        "commonLocations": "Hebra Mountains, Eldin Mountains",
         "Properties": "15 Attack"
     },
     {
         "Name": "Lizal Spear",
         "Description": "The brutal, ripping edge of this weapon's spearhead is a distinctly Lizalfos design. Its low durability doesn't lend itself to extended use.",
-        "Common Location": "Lanayru Wetlands, East Necluda",
+        "commonLocations": "Lanayru Wetlands, East Necluda",
         "Properties": "7 Attack"
     },
     {
         "Name": "Enhanced Lizal Spear",
         "Description": "Judging by the harpoon-like spearhead of this Lizalfos-made spear, the Lizalfos use it for fishing as well as combat. Try not to get caught on the wrong end of its barbs.",
-        "Common Location": "Tabantha Frontier, Gerudo Desert",
+        "commonLocations": "Tabantha Frontier, Gerudo Desert",
         "Properties": "12 Attack"
     },
     {
         "Name": "Forked Lizal Spear",
         "Description": "Skilled Lizalfos warriors tend to favor this spear. What it lacks in piercing power, it makes up for with the brutal wounds its dual ripping blades will inflict.",
-        "Common Location": "Eldin Canyon, Akkala Highlands",
+        "commonLocations": "Eldin Canyon, Akkala Highlands",
         "Properties": "18 Attack"
     },
     {
         "Name": "Guardian Spear",
         "Description": "Wielded by Guardian Scouts, this spear has a high piercing power and is a testament to the Sheikah's high level of technology. The spearhead appears only when brandished.",
-        "Common Location": "Hyrule Field, Hebra Mountains",
+        "commonLocations": "Hyrule Field, Hebra Mountains",
         "Properties": "10 Attack"
     },
     {
         "Name": "Guardian Spear+",
         "Description": "The tip of this Guardian spear has been enlarged and strengthened. It's a bit shorter than your average spear, perhaps to facilitate use in tight spaces.",
-        "Common Location": "Gerudo Highlands, Hyrule Field",
+        "commonLocations": "Gerudo Highlands, Hyrule Field",
         "Properties": "15 Attack"
     },
     {
         "Name": "Guardian Spear++",
         "Description": "This guardian spear's output has been boosted to the maximum. The spearhead is designed for optimal stabbing, capable of easily piercing most armor.",
-        "Common Location": "Hebra Mountains, Akkala Highlands",
+        "commonLocations": "Hebra Mountains, Akkala Highlands",
         "Properties": "20 Attack"
     },
     {
         "Name": "Lynel Spear",
         "Description": "The crescent-shaped spearhead of this Lynel-made weapon gives it poor balance, making it difficult to wield. Lynels, however, can swing it effectively with one hand.",
-        "Common Location": "Gerudo Highlands, West Necluda",
+        "commonLocations": "Gerudo Highlands, West Necluda",
         "Properties": "14 Attack"
     },
     {
         "Name": "Mighty Lynel Spear",
         "Description": "The weight and cutting edge of this Lynel-made spear have both been enhanced. It's immensely heavy for a Hylian, but a Lynel can cleave through rock with a single swing.",
-        "Common Location": "Great Hyrule Forest, Deep Akkala",
+        "commonLocations": "Great Hyrule Forest, Deep Akkala",
         "Properties": "20 Attack"
     },
     {
         "Name": "Savage Lynel Spear",
         "Description": "White-haired Lynels favor this brutal spear. Its axe-like spearhead and exceptional weight give it absolute destructive power.",
-        "Common Location": "Gerudo Highlands, Hebra Mountains",
+        "commonLocations": "Gerudo Highlands, Hebra Mountains",
         "Properties": "30 Attack"
     },
     {
         "Name": "Bow of Light",
         "Description": "Princess Zelda gave you this bow and arrow for the battle with Dark Beast Ganon. When wielded by the hero, it fires arrows of pure light strong enough to oppose the Calamity.",
-        "Common Location": "Unknown",
+        "commonLocations": "Unknown",
         "Properties": "100 Attack"
     },
     {
         "Name": "Wooden Bow",
         "Description": "This wooden bow may not be the most reliable for battling monsters, but is excellent for hunting small animals.",
-        "Common Location": "Hyrule Field, West Necluda",
+        "commonLocations": "Hyrule Field, West Necluda",
         "Properties": "4 Attack"
     },
     {
         "Name": "Traveler's Bow",
         "Description": "A small bow used by travelers for protection. It doesn't do a lot of damage, but it can be used to attack foes from a distance.",
-        "Common Location": "Hyrule Field, West Necluda",
+        "commonLocations": "Hyrule Field, West Necluda",
         "Properties": "5 Attack"
     },
     {
         "Name": "Soldier's Bow",
         "Description": "A bow designed for armed conflict. Inflicts more damage than a civilian bow, but it will still burn if it touches fire.",
-        "Common Location": "Hyrule Field, Faron Grasslands",
+        "commonLocations": "Hyrule Field, Faron Grasslands",
         "Properties": "14 Attack"
     },
     {
         "Name": "Knight's Bow",
         "Description": "The sturdy metal construction of this bow offers superior durability, while its lack of firing quirks makes it quite reliable. Once favored by the knights at Hyrule Castle.",
-        "Common Location": "Gerudo Desert, Tabantha Frontier",
+        "commonLocations": "Gerudo Desert, Tabantha Frontier",
         "Properties": "26 Attack"
     },
     {
         "Name": "Royal Bow",
         "Description": "In the past, the king of Hyrule presented this bow to only the most talented archers in the land. Its combat capabilities are as impressive as its extravagant design.",
-        "Common Location": "Tabantha Frontier, Hebra Mountains",
+        "commonLocations": "Tabantha Frontier, Hebra Mountains",
         "Properties": "38 Attack"
     },
     {
         "Name": "Forest Dweller's Bow",
         "Description": "The Koroks made this bow for Hylians. It's crafted from flexible wood and uses sturdy vines for the bowstring. Its construction may be simple, but it fires multiple arrows at once.",
-        "Common Location": "Tabantha Frontier, Hyrule Ridge",
+        "commonLocations": "Tabantha Frontier, Hyrule Ridge",
         "Properties": "15 Attack"
     },
     {
         "Name": "Silver Bow",
         "Description": "A bow favored by the Zora for fishing. It doesn't boast the highest firepower, but the special metal it's crafted from prioritizes durability.",
-        "Common Location": "Lanayru Great Spring, Akkala Highlands",
+        "commonLocations": "Lanayru Great Spring, Akkala Highlands",
         "Properties": "15 Attack"
     },
     {
         "Name": "Swallow Bow",
         "Description": "This bow is a favorite among Rito warriors. The bowstring has been specially engineered for aerial combat, which allows it to be drawn faster than a normal bow.",
-        "Common Location": "Tabantha Frontier, Hebra Mountains",
+        "commonLocations": "Tabantha Frontier, Hebra Mountains",
         "Properties": "9 Attack"
     },
     {
         "Name": "Falcon Bow",
         "Description": "A highly refined Rito-made bow created by a master Rito craftsman. Rito warriors favor it for its superior rate of fire, which helps them excel even further at aerial combat.",
-        "Common Location": "Tabantha Frontier, Hebra Mountains",
+        "commonLocations": "Tabantha Frontier, Hebra Mountains",
         "Properties": "20 Attack"
     },
     {
         "Name": "Great Eagle Bow",
         "Description": "A bow without equal wielded by the Rito Champion, Revali. It's said that Revali could loose arrows with the speed of a gale, making him supreme in aerial combat.",
-        "Common Location": "Tabantha Frontier",
+        "commonLocations": "Tabantha Frontier",
         "Properties": "28 Attack"
     },
     {
         "Name": "Golden Bow",
         "Description": "This Gerudo-made bow is popular for the fine ornamentations along its limbs. Designed for hunting and warfare alike, this bow was engineered to strike distant targets.",
-        "Common Location": "Gerudo Highlands, Gerudo Desert",
+        "commonLocations": "Gerudo Highlands, Gerudo Desert",
         "Properties": "14 Attack"
     },
     {
         "Name": "Phrenic Bow",
         "Description": "A bow passed down through the Sheikah tribe. Concentrating before drawing the string will allow you to target distant enemies as easily as those nearby.",
-        "Common Location": "West Necluda, Lake Hylia",
+        "commonLocations": "West Necluda, Lake Hylia",
         "Properties": "10 Attack"
     },
     {
         "Name": "Ancient Bow",
         "Description": "This bow is the result of Robbie's research. Ancient Sheikah technology affords it heightened functionality. Arrows fired from it travel in a perfectly straight line.",
-        "Common Location": "Unknown",
+        "commonLocations": "Unknown",
         "Properties": "44 Attack"
     },
     {
         "Name": "Royal Guard's Bow",
         "Description": "This prototype Sheikah-made bow was designed to fight the Great Calamity. Made with ancient technology, it boast a high rate of fire and firepower, but has a low durability.",
-        "Common Location": "Unknown",
+        "commonLocations": "Unknown",
         "Properties": "50 Attack"
     },
     {
         "Name": "Boko Bow",
         "Description": "A basic Bokoblin bow made from wood. It's made by taking any tree branch and just tying a string to either end, so don't expect much in the way of combat effectiveness.",
-        "Common Location": "Hyrule Field, West Necluda",
+        "commonLocations": "Hyrule Field, West Necluda",
         "Properties": "4 Attack"
     },
     {
         "Name": "Spiked Boko Bow",
         "Description": "An upgraded Boko bow bound with animal bone to boost its durability and firepower. Its craftsmanship is sloppy, but it's light and easy to use.",
-        "Common Location": "Faron Grasslands, East Necluda",
+        "commonLocations": "Faron Grasslands, East Necluda",
         "Properties": "12 Attack"
     },
     {
         "Name": "Dragon Bone Boko Bow",
         "Description": "A Boko bow reinforced by fossils. Bokoblins handpicked the materials it's made from, so it boasts a respectable firepower.",
-        "Common Location": "Hyrule Ridge, Hyrule Field",
+        "commonLocations": "Hyrule Ridge, Hyrule Field",
         "Properties": "24 Attack"
     },
     {
         "Name": "Lizal Bow",
         "Description": "A wooden bow created by Lizalfos. It's reinforced by the bones of a large fish - a marked improvement over any standard wooden bow.",
-        "Common Location": "Lanayru Great Spring, Lanayru Wetlands",
+        "commonLocations": "Lanayru Great Spring, Lanayru Wetlands",
         "Properties": "14 Attack"
     },
     {
         "Name": "Strengthened Lizal Bow",
         "Description": "A Lizal bow with a grip reinforced by metal. The body is made from the branches of a flexible tree that grows near water, which offers some serious destructive power.",
-        "Common Location": "Tabantha Frontier, Gerudo Desert",
+        "commonLocations": "Tabantha Frontier, Gerudo Desert",
         "Properties": "25 Attack"
     },
     {
         "Name": "Steel Lizal Bow",
         "Description": "This bow is wielded by Lizalfos who are expert marksmen. The metal that reinforces much of the weapon adds some additional weight but offers heightened durability.",
-        "Common Location": "Hebra Mountains, Akkala Highlands",
+        "commonLocations": "Hebra Mountains, Akkala Highlands",
         "Properties": "36 Attack"
     },
     {
         "Name": "Lynel Bow",
         "Description": "A Lynel-made bow crafted from rough metal. True to the vicious nature of Lynel weaponry, it fires a spread of multiple arrows at once. Ideal for taking down quick-moving targets.",
-        "Common Location": "Gerudo Highlands, Lanayru Great Spring",
+        "commonLocations": "Gerudo Highlands, Lanayru Great Spring",
         "Properties": "10 Attack"
     },
     {
         "Name": "Mighty Lynel Bow",
         "Description": "This massive Lynel bow sports a bowstring made from a metal so tough, mere Hylians have trouble drawing it back.",
-        "Common Location": "Hyrule Field, Deep Akkala",
+        "commonLocations": "Hyrule Field, Deep Akkala",
         "Properties": "20 Attack"
     },
     {
         "Name": "Savage Lynel Bow",
         "Description": "This Lynel bow is made from a special steel found at the peak of Death Mountain. It has tremendous stopping power and can pierce think armor as easily as thin paper.",
-        "Common Location": "Hebra Mountains, Hyrule Field",
+        "commonLocations": "Hebra Mountains, Hyrule Field",
         "Properties": "32 Attack"
     },
     {
         "Name": "Duplex Bow",
         "Description": "A bow favored by the skilled archers of the Yiga Clan. It's been engineered to fire two arrows at once to ensure your target comes to a swift a none-two-pleasant halt.",
-        "Common Location": "Gerudo Highlands",
+        "commonLocations": "Gerudo Highlands",
         "Properties": "14 Attack"
     },
     {
         "Name": "Arrow",
         "Description": "A common arrow. Its shaft was carved from the wood of a sturdy tree.",
-        "Common Location": "Hyrule Field, Eldin Canyon",
+        "commonLocations": "Hyrule Field, Eldin Canyon",
         "Properties": "No additional effects"
     },
     {
         "Name": "Fire Arrow",
         "Description": "An arrow imbued with the power of fire. It breaks apart on impact, igniting objects in the immediate area. It's incredibly effective against cold things.",
-        "Common Location": "Hyrule Field, Eldin Canyon",
+        "commonLocations": "Hyrule Field, Eldin Canyon",
         "Properties": "Additional Effects: Ignites flammable targets, causing extra damage."
     },
     {
         "Name": "Ice Arrow",
         "Description": "An arrow imbued with the power of ice. It breaks apart on impact, freezing objects in the immediate area. It's incredibly effective against hot things.",
-        "Common Location": "Hyrule Field, Hebra Mountains",
+        "commonLocations": "Hyrule Field, Hebra Mountains",
         "Properties": "Additional Effects: Freezes enemies in place."
     },
     {
         "Name": "Shock Arrow",
         "Description": "An arrow imbued with the power of electricity. It breaks apart on impact, channeling electricity into nearby objects. It's incredibly effective against metal or anything wet.",
-        "Common Location": "Lanayru Great Spring, Hyrule Field",
+        "commonLocations": "Lanayru Great Spring, Hyrule Field",
         "Properties": "Additional Effects: Electrocutes and disarms enemies."
     },
     {
         "Name": "Bomb Arrow",
         "Description": "A powerful arrow designed to destroy monsters. The explosive powder packed into the tip ignites on impact, dealing massive damage to anything caught in the blast.",
-        "Common Location": "Hyrule Field, East Necluda",
+        "commonLocations": "Hyrule Field, East Necluda",
         "Properties": "Additional Effects: Explodes on impact, dealing massive damage."
     },
     {
         "Name": "Ancient Arrow",
         "Description": "An arrow created using ancient technology. To be struck with one is to be consigned to oblivion in an instant. It deals devastating damage—even against Guardians.",
-        "Common Location": "Hyrule Field",
+        "commonLocations": "Hyrule Field",
         "Properties": "Additional Effects: The ancient arrowhead deals massive damage."
     },
     {
         "Name": "Hylian Shield",
         "Description": "A shield passes down through the Hylian royal family, along with the legend of the hero who wielded it. Its defensive capabilities and durability outshine all other shields.",
-        "Common Location": "Unknown",
+        "commonLocations": "Unknown",
         "Properties": "90 Shield Guard"
     },
     {
         "Name": "Pot Lid",
         "Description": "The lid of a large soup pot. It smells vaguely of poultry broth... Yum! It can take quite a beating before breaking.",
-        "Common Location": "Hyrule Field, East Necluda",
+        "commonLocations": "Hyrule Field, East Necluda",
         "Properties": "1 Shield Guard"
     },
     {
         "Name": "Wooden Shield",
         "Description": "This lightweight, simple shield is ideal for less-experienced fighters. It can withstand light attacks, but blocking stronger blows is not recommended.",
-        "Common Location": "Hyrule Field, East Necluda",
+        "commonLocations": "Hyrule Field, East Necluda",
         "Properties": "2 Shield Guard"
     },
     {
         "Name": "Emblazoned Shield",
         "Description": "This shield features a traditional design from Necluda. Its combat capabilities aren't much better than the standard wooden shield, but it found popularity for its design.",
-        "Common Location": "East Necluda, Hebra Mountains",
+        "commonLocations": "East Necluda, Hebra Mountains",
         "Properties": "3 Shield Guard"
     },
     {
         "Name": "Hunter's Shield",
         "Description": "Favored by hunters for its rabbit design, which is said to bring luck on hunts. It's easy to use, but its durability leaves something to be desired.",
-        "Common Location": "Hebra Mountains, Lanayru Wetlands",
+        "commonLocations": "Hebra Mountains, Lanayru Wetlands",
         "Properties": "3 Shield Guard"
     },
     {
         "Name": "Fisherman's Shield",
         "Description": "Often carried by fishermen for its fish design, which represents hope for a good catch. Its light wooden construction makes it convenient to take on a boat.",
-        "Common Location": "East Necluda, Hebra Mountains",
+        "commonLocations": "East Necluda, Hebra Mountains",
         "Properties": "3 Shield Guard"
     },
     {
         "Name": "Traveler's Shield",
         "Description": "A sturdy shield loved by many an adventurer. It is made of animal hide and sturdy wood and is best suited to defending against weak monsters or animals.",
-        "Common Location": "Hyrule Field, West Necluda",
+        "commonLocations": "Hyrule Field, West Necluda",
         "Properties": "4 Shield Guard"
     },
     {
         "Name": "Soldier's Shield",
         "Description": "A shield once used by the guards of Hyrule Castle. It's easy to handle, but its core is made of wood, so it can catch fire.",
-        "Common Location": "Tabantha Frontier, Hyrule Field",
+        "commonLocations": "Tabantha Frontier, Hyrule Field",
         "Properties": "16 Shield Guard"
     },
     {
         "Name": "Knight's Shield",
         "Description": "A shield favored by the knights who served the Hyrulean royal family. Its sturdy metal construction makes it quite durable, but its weight requires decent skill to wield.",
-        "Common Location": "Hebra Mountains, Eldin Mountains",
+        "commonLocations": "Hebra Mountains, Eldin Mountains",
         "Properties": "40 Shield Guard"
     },
     {
         "Name": "Royal Shield",
         "Description": "A shield issued to the Hyrulean royal family's immediate guard detail. It boasts a high defense, but these days it's more a collector's item due to its ornamentation.",
-        "Common Location": "Hyrule Field, Hebra Mountains",
+        "commonLocations": "Hyrule Field, Hebra Mountains",
         "Properties": "55 Shield Guard"
     },
     {
         "Name": "Forest Dweller's Shield",
         "Description": "The Koroks made this shield specifically for Hylians. It's made from the finest hard wood of trees that only grow in the Korok forest, so it's sturdier than it looks.",
-        "Common Location": "Great Hyrule Forest",
+        "commonLocations": "Great Hyrule Forest",
         "Properties": "30 Shield Guard"
     },
     {
         "Name": "Silver Shield",
         "Description": "A Zora-made shield adorned with intricate ornamentation. It's said that true masters of this shield can redirect attacks as a rock redirects rushing water.",
-        "Common Location": "Lanayru Great Spring, Lake Hylia",
+        "commonLocations": "Lanayru Great Spring, Lake Hylia",
         "Properties": "18 Shield Guard"
     },
     {
         "Name": "Kite Shield",
         "Description": "Rito warriors cherish this shield. Its unique shape is designed with mid-battle flight in mind to facilitate aerial combat.",
-        "Common Location": "Hebra Mountains, Tabantha Frontier",
+        "commonLocations": "Hebra Mountains, Tabantha Frontier",
         "Properties": "14 Shield Guard"
     },
     {
         "Name": "Gerudo Shield",
         "Description": "The design of this metal shield has changed over time to match the Gerudo's sword-and-shield fighting style. It's favored by soldiers and travelers alike.",
-        "Common Location": "Gerudo Desert, Gerudo Highlands",
+        "commonLocations": "Gerudo Desert, Gerudo Highlands",
         "Properties": "20 Shield Guard"
     },
     {
         "Name": "Radiant Shield",
         "Description": "This extravagant shield is presented to Gerudo warriors who rise to the rank of captain. Its apparent opulence is rivaled only by its combat capabilities.",
-        "Common Location": "Gerudo Desert, Gerudo Highlands",
+        "commonLocations": "Gerudo Desert, Gerudo Highlands",
         "Properties": "35 Shield Guard"
     },
     {
         "Name": "Daybreaker",
         "Description": "This shield was cherished by the Gerudo Champion Urbosa. The gold used to make it was handpicked to ensure a design that is both lightweight and very durable.",
-        "Common Location": "Gerudo Desert",
+        "commonLocations": "Gerudo Desert",
         "Properties": "48 Shield Guard"
     },
     {
         "Name": "Shield of the Mind's Eye",
         "Description": "A small Sheikah-made shield. Its design is intended to decrease blind spots without sacrificing too much defense.",
-        "Common Location": "West Necluda, East Necluda",
+        "commonLocations": "West Necluda, East Necluda",
         "Properties": "16 Shield Guard"
     },
     {
         "Name": "Ancient Shield",
         "Description": "This shield was made using ancient Sheikah technology. Its surface glows blue when raised in defense. Enhanced functionality allows it to deflect Guardian beams.",
-        "Common Location": "Unknown",
+        "commonLocations": "Unknown",
         "Properties": "70 Shield Guard"
     },
     {
         "Name": "Rusty Shield",
         "Description": "It's likely that this rusty old shield once belonged to a knight. It still has some defensive capabilities, but its usefulness has been worn down by time.",
-        "Common Location": "Hyrule Field, East Necluda",
+        "commonLocations": "Hyrule Field, East Necluda",
         "Properties": "3 Shield Guard"
     },
     {
         "Name": "Royal Guard's Shield",
         "Description": "This shield was forged using ancient Sheikah technology. It boasts extremely high stopping power, but its structural weakness made its low durability impractical for combat.",
-        "Common Location": "Unknown",
+        "commonLocations": "Unknown",
         "Properties": "70 Shield Guard"
     },
     {
         "Name": "Boko Shield",
         "Description": "A Bokoblin-made shield created by attaching a handhold to any flat tree bark picked up off the ground. It's pretty shoddy, so don't expect it to last very long.",
-        "Common Location": "Hyrule Field, West Necluda",
+        "commonLocations": "Hyrule Field, West Necluda",
         "Properties": "3 Shield Guard"
     },
     {
         "Name": "Spiked Boko Shield",
         "Description": "A Boko shield made of slightly stronger wood and reinforced with animal bones.",
-        "Common Location": "Faron Grasslands, East Necluda",
+        "commonLocations": "Faron Grasslands, East Necluda",
         "Properties": "10 Attack"
     },
     {
         "Name": "Dragonbone Boko Shield",
         "Description": "This Boko shield is reinforced with fossilized bone. Its defensive capabilities are respectable, but its predictably slipshod craftsmanship spells low durability.",
-        "Common Location": "Hyrule Ridge, Necluda Sea",
+        "commonLocations": "Hyrule Ridge, Necluda Sea",
         "Properties": "25 Shield Guard"
     },
     {
         "Name": "Lizal Shield",
         "Description": "A common shield found among the Lizalfos. It's made of metal, but its sloppy craftsmanship offers poor durability.",
-        "Common Location": "Lake Hylia, East Necluda",
+        "commonLocations": "Lake Hylia, East Necluda",
         "Properties": "15 Shield Guard"
     },
     {
         "Name": "Reinforced Lizal Shield",
         "Description": "This Lizal shield has been strengthened by adding a different type of metal to the mix. The edge is lined with spikes, so handle with care.",
-        "Common Location": "Tabantha Frontier, Gerudo Desert",
+        "commonLocations": "Tabantha Frontier, Gerudo Desert",
         "Properties": "22 Shield Guard"
     },
     {
         "Name": "Steel Lizal Shield",
         "Description": "This Lizal shield is adorned with several metal shells as a means of reinforcement. Its defensive capabilities are high, but its weight requires a skilled soldier to bear.",
-        "Common Location": "Hebra Mountains, Akkala Highlands",
+        "commonLocations": "Hebra Mountains, Akkala Highlands",
         "Properties": "35 Shield Guard"
     },
     {
         "Name": "Guardian Shield",
         "Description": "A shield made with ancient Sheikah technology. It can deflect a Guardian Scout's beam.",
-        "Common Location": "West Necluda, Lanayru Great Spring",
+        "commonLocations": "West Necluda, Lanayru Great Spring",
         "Properties": "18 Shield Guard"
     },
     {
         "Name": "Guardian Shield+",
         "Description": "This larger version of a Guardian shield has had its output level boosted. Its defensive capabilities are comparable to those of a metal shield's.",
-        "Common Location": "East Necluda, Faron Grasslands",
+        "commonLocations": "East Necluda, Faron Grasslands",
         "Properties": "30 Shield Guard"
     },
     {
         "Name": "Guardian Shield++",
         "Description": "The output level of this shield has been boosted to a maximum. Its combat capabilities surpass those of metallic shields, and it can deflect Guardian Scout beams.",
-        "Common Location": "Gerudo Highlands, Akkala Highlands",
+        "commonLocations": "Gerudo Highlands, Akkala Highlands",
         "Properties": "42 Shield Guard"
     },
     {
         "Name": "Lynel Shield",
         "Description": "A sturdy shield favored by Lynels for its defensive and offensive capabilities. First and foremost a shield, but the bladed edges can deal slashing attacks when deflecting.",
-        "Common Location": "Lanayru Great Spring, Hyrule Field",
+        "commonLocations": "Lanayru Great Spring, Hyrule Field",
         "Properties": "30 Shield Guard"
     },
     {
         "Name": "Mighty Lynel Shield",
         "Description": "This Lynel-made shield has been reinforced with armor and even more blades. Stronger in both defense and offense, it can tear through basic armor when deflecting.",
-        "Common Location": "Hyrule Field, Lanayru Great Spring",
+        "commonLocations": "Hyrule Field, Lanayru Great Spring",
         "Properties": "44 Shield Guard"
     },
     {
         "Name": "Savage Lynel Shield",
         "Description": "This ultimate Lynel shield is used only by the white-haired Lynels. It excels at defending against even the most brutal of attacks and cutting down powerful foes when deflecting.",
-        "Common Location": "Hyrule Field, Hebra Mountains",
+        "commonLocations": "Hyrule Field, Hebra Mountains",
         "Properties": "62 Shield Guard"
     }
 ]

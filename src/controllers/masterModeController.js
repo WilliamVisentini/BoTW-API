@@ -1,10 +1,10 @@
-import Monster from "../models/monsterModel.js";
+import Master from '../models/masterModeModel.js'
 import fetchData from "../utils/fetchData.js";
 
-class monsterController {
-    static async getAllMonsters(req, res) {
-        await fetchData(Monster, res);
+class master_monsterController {
+    static async getAllMasterMonsters(req, res) {
+        await fetchData(Master, res);
     }
 }
 
-export default monsterController;  
+export default master_monsterController;  

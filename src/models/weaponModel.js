@@ -9,8 +9,8 @@ const weaponSchema = new mongoose.Schema({
         type: String,
         required: true,
     },
-    commonLocation: {
-        type: String,
+    commonLocations: {
+        type: [String],
         required: true,
     },
     properties: {

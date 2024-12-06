@@ -18,7 +18,7 @@ const creatureSchema = new mongoose.Schema({
         default: []
     }
 }, {
-    collection: 'animals_and_insects' // Specify your collection name here
+    collection: 'animals_and_insects'
 });
 
 const Creature = mongoose.model('Creature', creatureSchema);
