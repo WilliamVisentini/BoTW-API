@@ -44,7 +44,7 @@ The API will run on `http://localhost:9990` by default.
 
 #### Example: Get All Items
 ```http
-GET /api/items
+GET /api/food
 ```
 
 #### Example: Get Details of a Specific Item
