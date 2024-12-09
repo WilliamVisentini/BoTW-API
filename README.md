@@ -1,5 +1,5 @@
 
-# BOTW-API [TODO]
+# BOTW-API
 
 A RESTful API for accessing and exploring the world of **The Legend of Zelda: Breath of the Wild**. This API provides detailed information about items, characters, locations, enemies, and more from the game. Perfect for developers building apps, fan sites, or tools for BOTW enthusiasts.
 
@@ -82,6 +82,3 @@ This project is licensed under the [MIT License](LICENSE).
 - My dog
 
 > **Disclaimer:** This API is a fan-made project and is not affiliated with or endorsed by Nintendo.
-
-
-#### TODO -> Chars
